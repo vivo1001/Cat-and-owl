@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cat-and-owl/static/css/main.c73ad61b.css",
+    "main.js": "/Cat-and-owl/static/js/main.4363f5a0.js",
+    "index.html": "/Cat-and-owl/index.html",
+    "main.c73ad61b.css.map": "/Cat-and-owl/static/css/main.c73ad61b.css.map",
+    "main.4363f5a0.js.map": "/Cat-and-owl/static/js/main.4363f5a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c73ad61b.css",
+    "static/js/main.4363f5a0.js"
+  ]
+}
