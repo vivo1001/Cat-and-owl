@@ -286,7 +286,7 @@ export default function App() {
             <span className="chapter-tag">Chapter 8 — The storm begins</span>
             <span className="illustration" style={{ fontSize:60 }}>😟</span>
             <h2>The Bestie's Hurt</h2>
-            <p className="story-text">After their meet-up, the kitty's bestie reached out. He was a little hurt — the cat hadn't told them how close he'd grown to the owl, or about the trip to see her.</p>
+            <p className="story-text">After their meet-up, the kitty's bestie reached out. He was a little hurt — the cat hadn't told him how close he'd grown to the owl, or about the trip to see her.</p>
             <p className="story-text">The cat was awestruck. A wave of guilt washed over him instantly.</p>
             <div className="thought-bubble">
               <div className="thought-dots">
@@ -424,7 +424,7 @@ export default function App() {
             <div className="letter-divider"><span style={{ fontSize:24 }}>🌹</span></div>
 
             <p className="letter-text" style={{ fontStyle:'italic',color:'var(--text-soft)',fontSize:15 }}>That's all this dumb cat has to say.</p>
-            <p className="letter-text" style={{ fontWeight:700,color:'var(--text-dark)',fontSize:16 }}>Now it's all up to the owliee to decide. 🦉</p>
+            <p className="letter-text" style={{ fontWeight:700,color:'var(--text-dark)',fontSize:16 }}>Now it's all up to the owliee to decide if she wants to contine talking to the cat. 🦉</p>
 
             <div className="letter-footer">
               <span style={{ fontSize:28 }}>🐱</span>
