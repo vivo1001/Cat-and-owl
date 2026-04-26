@@ -103,7 +103,7 @@ export default function App() {
         <div className="scene-inner">
           <div className="title-card">
             <span className="illustration slow">🐱</span>
-            <div className="story-title">The Kitty &amp; The Owl</div>
+            <div className="story-title">The Cat &amp; The Owl</div>
             <div className="story-subtitle">A tale of two distant insomniacs finding their way</div>
             <div style={{ margin:'24px 0 8px' }}>
               <p className="story-text">Once upon a time, there was a small kitty cat who lived in a far away land — separated from all his kitten friends, yearning to come back home.</p>
